@@ -70,6 +70,16 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
+  Qq,
+  Ad,
+  AddressBook,
+  Clock,
+  CloudDownloadAlt,
+  Envelope,
+  Github,
+  Twitter,
+  Telegram,
+  Weixin,
 };
 
 // 链接跳转
