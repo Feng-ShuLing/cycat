@@ -2,27 +2,27 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://wlcbit.com/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "次元喵",
+    "link": "https://cycat.vip/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "Telegram",
+    "name": "TG群组",
+    "link": "https://web.telegram.org/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "Twitter",
+    "name": "推特",
+    "link": "https://twitter.com/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "icon": "Envelope",
+    "name": "邮箱",
+    "link": "mailto:cycat@cycat.vip"
   },
   {
     "icon": "Fire",
